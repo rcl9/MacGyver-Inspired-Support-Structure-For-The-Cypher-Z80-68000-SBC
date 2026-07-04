@@ -5,7 +5,7 @@ This repository documents the thought process and build process of a new support
 For 40+ years I have had all of the components sitting on a square piece of pegboard but have clearly wanted to make a more portable and structurally sound support structure for it. However, I could never figure out how to turn my mental image of the ideal setup into reality, until now.
 
 <div style="text-align:center">
-<img src="https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer-1984-by-Motel-Computers---History-and-Documentation/Images/RCL's Motel Computers Z80-68000 system setup.jpg" alt="" style="width:70%; height:auto;">
+<img src="https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer-1984-by-Motel-Computers---History-and-Documentation/blob/main/Images/RCL's%20Motel%20Computers%20Z80-68000%20system%20setup.jpg" alt="" style="width:70%; height:auto;">
 </div>
 
 ## The Final Configuration
